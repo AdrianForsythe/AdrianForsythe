@@ -9,7 +9,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg](https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 
 
 ---
