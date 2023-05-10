@@ -13,5 +13,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="BASH Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="Hugo Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png" alt="Nextflow Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow2014_no-bg.png" alt="Nextflow Logo" width="150" height="50"/>
 ---
