@@ -3,19 +3,17 @@
 I am a Researcher at Uppsala University in the Department of Systematics, where my research focuses on identifying and annotating large repetitive elements in fungal pathogen genomes. I'm a member of the [FungAGE Lab](https://fungage.github.io/), where our research is focused on better understanding the incredible plasticity in fungal genomes. Right now, I am working on identifying genes that are involved with the movement and function of some extremely large transposable elements, the [Starships](https://doi.org/10.1093/molbev/msac109).
 
 ---
-
 🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg", alt="Python Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg", alt="Django Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg", alt="Flask Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg", alt="Docker Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg", alt="SQLite Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg", alt="PostgreSQL Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg", alt="MySQL Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="BASH Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="Hugo Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="BASH Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Hugo Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/nextflow-io/nextflow/master/docs/_static/nextflow-logo-bg-light.png" alt="Nextflow Logo" width="200" height="50"/>
 ---
