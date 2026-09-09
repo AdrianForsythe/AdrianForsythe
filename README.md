@@ -1,9 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adrian!
 
-I am a Researcher at Uppsala University in the Department of Systematics, where my research focuses on identifying and annotating large repetitive elements in fungal pathogen genomes. I'm a member of the [FungAGE Lab](https://fungage.github.io/), where our research is focused on better understanding the incredible plasticity in fungal genomes. Right now, I am working on identifying genes that are involved with the movement and function of some extremely large transposable elements, the [Starships](https://doi.org/10.1093/molbev/msac109).
+I am a Bioinformatician/Computational Biology at EMBL GeneCore in Heidelberg, Germany.
 
 ---
+
 🧰 Toolbox
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django Logo" width="50" height="50"/>
@@ -16,4 +18,5 @@ I am a Researcher at Uppsala University in the Department of Systematics, where 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="BASH Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Hugo Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/nextflow-io/nextflow/master/docs/_static/nextflow-logo-bg-light.png" alt="Nextflow Logo" width="200" height="50"/>
+
 ---
